@@ -2,7 +2,7 @@
   "name": "crypto_world",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/Anuragpandey26/crypto_world.git",
+  "homepage": "https://github.com/Anuragpandey26/crypto_world.git/#",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
