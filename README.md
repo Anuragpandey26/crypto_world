@@ -1,8 +1,8 @@
-# React + Vite
+Tech Stack: ReactJS, ChartJS, MomentJS, Crypto API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developed a React-based project utilizing Chart.js for chart creation
 
-Currently, two official plugins are available:
+Integrated Moment.js for displaying dates in localized formats and human-readable styles
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Analyzed cryptocurrency trends by integrating real-time data for insights into coin performance
+
